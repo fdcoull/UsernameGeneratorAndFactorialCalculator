@@ -1,7 +1,7 @@
 # Username Generator and Factorial Generator
-A Java program that can be used to generate a username based on an inputted first and last name and can calculate a factorial.
+A program designed and created for the "Developing Software Introduction" module in HNC Computing.
 
-This program was created for my final assessment for the HNC Computing Module - Developing Software Introduction. It showcases the skills I gained while learning Java in this class through a CLI application.
+This program was created for my final assessment for the HNC Computing Module - Developing Software Introduction. It is used to generate a username based on an inputted first and last name and can calculate a factorial. It showcases the skills I gained while learning Java in this class through a CLI application.
 
 ## User Manual
 ### Generating a username
